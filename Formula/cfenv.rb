@@ -2,7 +2,7 @@ require 'formula'
 
 class Cfenv < Formula
   homepage 'https://github.com/joshuairl/cfenv'
-  url 'https://github.com/joshuairl/cfenv/archive/v0.0.5.tar.gz'
+  url 'https://github.com/joshuairl/cfenv/archive/v0.0.7.tar.gz'
   sha1 '16ad2b4e81d996cf9051371c6954d9010712e90a'
 
   head 'https://github.com/joshuairl/cfenv.git'
